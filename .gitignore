@@ -24,3 +24,4 @@ yarn-error.log*
 .env
 junit.xml
 unit.xml
+/package-lock.json
